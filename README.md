@@ -1,16 +1,16 @@
-# ёRadio - simple myoptions.h generator
+# ehRadio - simple myoptions.h generator
 
-This is a tool to help you set up and flash the [ёRadio](https://github.com/e2002/yoradio) ESP32 web-radio project
+This is a tool to help you set up and flash the [ehRadio](https://github.com/trip5/ehradio) ESP32 web-radio project
 
 <img src="images/myoptions-generator.jpg" width="830" height="auto">
 
 This is a dynamic html page that runs in a browser (chrome, firefox, opera) or online. After some actions, using the mouse and keyboard, the output is the configuration file **myoptions.h**, completely ready for use in the project.
 
-[Click here to use the tool!](https://trip5.github.io/yoradio-docs/docs/myoptions-generator.html)
+[Click here to use the tool!](https://trip5.github.io/ehradio_myoptions/docs/myoptions-generator.html)
 
 ## Notes
 
-Original Layout and format and coding by e2002 (for ESP32), made dynamic by Trip5 (for ESP32-S3, ESP32-C3, more).
+Original Layout and format and coding by e2002 for yoRadio (for ESP32), made dynamic for ehRadio by Trip5 (for ESP32-S3, ESP32-C3, more).
 
 ### Features
 
@@ -36,7 +36,7 @@ Original Layout and format and coding by e2002 (for ESP32), made dynamic by Trip
 
 ### Trip5's modifications
 
-Trip5 made a lot of modifications to make this more dynamic.  In case his is more up-to-date you can check it out
-[here](https://trip5.github.io/yoradio-docs/docs/myoptions-generator.html). His repo is [here](https://github.com/trip5/yoradio-docs).
+Trip5 made a lot of modifications to make this more dynamic.  At least as of August 2025, yoRadio and ehRadio `myoptions.h`
+are mostly compatible (and certainly the hardware options should be 100% compatible).
 
 The original generator is [here](https://e2002.github.io/docs/myoptions-generator.html).
