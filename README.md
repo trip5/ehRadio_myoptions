@@ -6,7 +6,7 @@ This is a tool to help you set up and flash the [ehRadio](https://github.com/tri
 
 This is a dynamic html page that runs in a browser (chrome, firefox, opera) or online. After some actions, using the mouse and keyboard, the output is the configuration file **myoptions.h**, completely ready for use in the project.
 
-[Click here to use the tool!](https://trip5.github.io/ehradio_myoptions/generator.html)
+[Click here to use the tool!](https://trip5.github.io/ehRadio_myoptions/generator.html)
 
 ## Notes
 
