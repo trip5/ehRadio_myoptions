@@ -1,6 +1,6 @@
 # ehRadio - simple myoptions.h generator
 
-This is a tool to help you set up and flash the [ehRadio](https://github.com/trip5/ehradio) ESP32 web-radio project
+This is a tool to help you set up and flash the [ehRadio](https://github.com/trip5/ehRadio) ESP32 web-radio project
 
 <img src="images/myoptions-generator.jpg" width="830" height="auto">
 
