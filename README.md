@@ -1,4 +1,4 @@
-# ehRadio - simple myoptions.h generator
+# ёRadio - simple myoptions.h generator
 
 This is a tool to help you set up and flash the [ёRadio](https://github.com/e2002/yoradio) ESP32 web-radio project
 
