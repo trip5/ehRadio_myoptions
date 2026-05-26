@@ -1,6 +1,8 @@
 # ёRadio / ehRadio - simple myoptions.h generator
 
-This is a tool to help you set up and flash the [ёRadio](https://github.com/e2002/yoradio/) and [ehRadio](https://github.com/trip5/ehRadio) ESP32 web-radio projects.
+This is a tool to help you set up and flash the [ёRadio](https://github.com/e2002/yoradio/) ESP32 web-radio project.
+
+As of version `2026.05.08`, [ehRadio](https://github.com/trip5/ehRadio) is no longer limited to default pins.  So use the [ehRadio Generator](https://trip5.github.io/ehRadio/myoptions/generator.html).
 
 <img src="images/myoptions-generator.jpg" width="830" height="auto">
 
